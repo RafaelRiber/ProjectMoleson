@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PMLogo)(type KiCad)(uri ${KIPRJMOD}/PMLogo.pretty)(options "")(descr ""))
+  (lib (name EPFL)(type KiCad)(uri ${KIPRJMOD}/EPFL.pretty)(options "")(descr ""))
+)
